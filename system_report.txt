@@ -1,0 +1,6 @@
+System Monitor Report
+=====================
+
+CPU Count: 12
+Total Memory: 36864 MB
+Used Memory: 22282 MB
